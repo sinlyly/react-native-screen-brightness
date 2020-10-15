@@ -7,7 +7,6 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Build;
 import android.provider.Settings;
-import android.support.v4.content.ContextCompat;
 import android.view.WindowManager;
 
 import com.facebook.react.bridge.ActivityEventListener;
