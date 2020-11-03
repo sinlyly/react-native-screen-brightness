@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.name         = "react-native-screen-brightness"
   s.version      = package['version']
   s.summary      = "RNIap"
-  s.description  = package['description']
+  s.description  = "screen-brightness"
   s.homepage     = "https://github.com/robinpowered/react-native-screen-brightness"
   s.license      = package['license']
   s.author       = package['author']
